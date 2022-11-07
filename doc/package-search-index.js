@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"pkg_Game.pkg_GameEngine"},{"l":"pkg_Game.pkg_GameEngine.pkg_Command"},{"l":"pkg_Game.pkg_GameEngine.pkg_Item"},{"l":"pkg_Game.pkg_GameEngine.pkg_Room"},{"l":"pkg_Game.pkg_UserInterface"}]
