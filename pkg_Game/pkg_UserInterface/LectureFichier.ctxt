@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LectureFichier
+comment0.text=\n\ Classe\ permettant\ la\ lecture\ de\ fichiers\ texte.\n\ Une\ partie\ de\ lecture()\ provient\ de\ M.\ Denis\ BUREAU.\n\ @author\ Rapha\u00EBl\ CANIN\n\ @version\ 2020\n
+comment1.params=pNomFichier
+comment1.target=java.lang.String\ lecture(java.lang.String)
+comment1.text=\n\ Lecture\ d'un\ fichier\ et\ renvoie\ de\ l'ensemble\ des\ lignes\ sous\ forme\ de\ String\ s\u00E9par\u00E9es\n\ par\ une\ virgule\ (pour\ utiliser\ split(",")\ ensuite)\n\ @param\ pNomFichier\ Nom\ du\ fichier\ \u00E0\ lire\n\ @return\ String\ du\ fichier\ lu.\n
+numComments=2

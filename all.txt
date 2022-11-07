@@ -1,0 +1,86 @@
+take screwdriver
+go up
+go east
+go down
+go south
+go east
+go south
+take cookie
+eat cookie
+go south
+go south
+take riddle2
+go north
+go north
+take shield
+take riddle3
+go east
+take medkit
+go west
+go west
+go south
+take riddle1
+go west
+go north
+go north
+take pass
+go south
+go east
+go south
+go south
+take sword
+go north
+go west
+go south
+take screwdriver
+drop screwdriver
+drop screwdriver
+take dmlk
+drop dmlk
+back
+help
+help lkj
+look
+look nonexistingitem
+go west
+go down
+look screwdriver
+look
+look dliid
+go east
+go north
+go south
+go up
+go dkljdlkj
+go
+back
+back
+back
+back
+eat
+eat lkdj
+back dljkhd
+eat
+eat cookie
+inventory
+go west
+drop shield
+take beamer
+go north
+charge beamer
+go south
+go south
+fire beamer
+go south
+alea Bathroom
+go south
+go south
+go elsewhere
+take medkit
+alea
+go west
+go west
+go south
+go west
+go south
+heal

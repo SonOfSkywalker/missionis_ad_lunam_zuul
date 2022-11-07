@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Riddle
+comment0.text=\n\ Item\ comportant\ une\ \u00E9nigme\n\n\ @author\ Rapha\u00EBl\ CANIN\n\ @version\ 2021\n
+comment1.params=
+comment1.target=Riddle()
+comment1.text=\n\ Constructeur\n
+comment2.params=
+comment2.target=boolean\ isSolved()
+comment2.text=\n\ Getter\ de\ aIsSolved\n\ @return\ l'\u00E9tat\ de\ r\u00E9solution\ de\ l'\u00E9nigme\n
+comment3.params=
+comment3.target=void\ solved()
+comment3.text=\n\ \u00C0\ appeler\ lorsque\ l'\u00E9nigme\ est\ r\u00E9solue\n
+comment4.params=pRiddle
+comment4.target=void\ setRiddle(java.lang.String)
+comment4.text=\n\ Setter\ de\ aRiddle\n\ @param\ pRiddle\ \u00C9nonc\u00E9\ de\ l'\u00E9nigme\n
+comment5.params=pAnswer
+comment5.target=void\ setAnswer(java.lang.String)
+comment5.text=\n\ Set\ de\ aAnswer\n\ @param\ R\u00E9ponse\ \u00E0\ l'\u00E9nigme\n
+comment6.params=
+comment6.target=java.lang.String\ getRiddle()
+comment6.text=\n\ Getter\ de\ aRiddle\n\ @return\ \u00C9nonc\u00E9\ de\ l'\u00E9nigme\n
+comment7.params=pGuess
+comment7.target=boolean\ guessAnswer(java.lang.String)
+comment7.text=\n\ @param\ pGuess\ Tentative\ de\ r\u00E9ponse\n\ @return\ true\ si\ la\ r\u00E9ponse\ est\ vraie,\ faux\ sinon.\n
+numComments=8

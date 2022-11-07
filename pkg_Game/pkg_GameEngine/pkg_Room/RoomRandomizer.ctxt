@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RoomRandomizer
+comment0.text=\n\ Classe\ renvoyant\ al\u00E9atoirement\ un\ Room\ du\ jeu.\n\n\ @author\ Rapha\u00EBl\ CANIN\n\ @version\ 2020\n
+comment1.params=pRoomsList
+comment1.target=Room\ findRandomRoom(java.util.ArrayList)
+comment1.text=\n\ Room\ Randomizer\n\ @param\ pRoomsList\ Liste\ des\ Rooms\ \u00E0\ tirer\ au\ sol\n\ @return\ une\ Room\ au\ hasard\n
+numComments=2

@@ -1,0 +1,36 @@
+take screwdriver
+go up
+go east
+go down
+go south
+go east
+go south
+take cookie
+eat cookie
+go south
+go south
+take riddle
+go north
+go north
+take shield
+go east
+take medkit
+go west
+go west
+go south
+go west
+solve riddle
+guess 3
+go north
+go north
+take pass
+go south
+go east
+go south
+go south
+take sword
+go north
+go west
+go south
+heal
+fight

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\n\ Classe\ Game\ servant\ de\ boucle\ principale\ au\ programme.\n\ @author\ Rapha\u00EBl\ CANIN\n\ @version\ 2020\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\n\ Cr\u00E9e\ une\ partie\n
+comment2.params=
+comment2.target=pkg_Game.pkg_GameEngine.GameEngine\ getEngine()
+comment2.text=\n\ Getter\ de\ aEngine\n\ @return\ aEngine\n
+numComments=3

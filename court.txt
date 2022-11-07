@@ -1,0 +1,5 @@
+help
+go west
+back
+go down
+look

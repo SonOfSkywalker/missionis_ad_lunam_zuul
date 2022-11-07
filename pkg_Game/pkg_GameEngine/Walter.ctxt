@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Walter
+comment0.text=\n\ PNJ\ \u00E0\ soigner\ qui\ d\u00E9livrera\ des\ informations\ n\u00E9cessaires\ \u00E0\ la\ suite\ du\ jeu\n\n\ @author\ Rapha\u00EBl\ CANIN\n\ @version\ 2021\n
+comment1.params=
+comment1.target=Walter()
+comment1.text=\n\ Constructeur\ par\ d\u00E9faut\n
+comment2.params=
+comment2.target=java.lang.String\ heal()
+comment2.text=\n\ Permet\ de\ soigner\ Walter\n\ @return\ Son\ discours\n
+numComments=3

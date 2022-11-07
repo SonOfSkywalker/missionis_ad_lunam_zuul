@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TransporterRoom
+comment0.text=\n\ Sous-classe\ de\ Room\ impl\u00E9mentant\ la\ Transporter\ Room\n\n\ @author\ Rapha\u00EBl\ CANIN\n\ @version\ 2020\n
+comment1.params=pDescription\ pImage\ pRoomsList
+comment1.target=TransporterRoom(java.lang.String,\ java.lang.String,\ java.util.ArrayList)
+comment1.text=\n\ Constructeur\ naturel\n\ @param\ pDescription\ String\ pour\ initialiser\ aDescription\n\ @param\ pImage\ String\ pour\ donner\ le\ nom\ de\ l'image\ souhait\u00E9e.\n\ @param\ pRoomsList\ Liste\ des\ Rooms\ \u00E0\ tirer\ au\ sort\n
+comment2.params=pDirection
+comment2.target=Room\ getExit(java.lang.String)
+comment2.text=\n\ Renvoie\ la\ Room\ de\ sortie\ al\u00E9atoire\n\ @param\ pDirection\ Non\ important\n\ @return\ Room\ correspondant\ \u00E0\ la\ sortie\ demand\u00E9e.\n
+comment3.params=pRoom
+comment3.target=void\ setRoomTestMode(Room)
+comment3.text=\n\ Setter\ de\ aRoomNameTestMode\n\ @param\ pRoom\ Room\ \u00E0\ laquelle\ initialiser\ l'attribut\n
+numComments=4
